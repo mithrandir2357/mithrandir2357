@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mithrandir2357
+- 👀 I’m interested in Deep Learning
+- 🌱 I’m currently learning in SNU IE
